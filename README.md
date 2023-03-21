@@ -1,1 +1,1 @@
-# MERN-Inventory-Management-App
+# MERN-Doctor Appointment App
